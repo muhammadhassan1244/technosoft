@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/technosoft/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/technosoft/static/js/main.de06a312.chunk.js",
+    "main.js.map": "/technosoft/static/js/main.de06a312.chunk.js.map",
+    "runtime-main.js": "/technosoft/static/js/runtime-main.da871b3d.js",
+    "runtime-main.js.map": "/technosoft/static/js/runtime-main.da871b3d.js.map",
+    "static/js/2.142e26c2.chunk.js": "/technosoft/static/js/2.142e26c2.chunk.js",
+    "static/js/2.142e26c2.chunk.js.map": "/technosoft/static/js/2.142e26c2.chunk.js.map",
+    "static/js/3.d6252455.chunk.js": "/technosoft/static/js/3.d6252455.chunk.js",
+    "static/js/3.d6252455.chunk.js.map": "/technosoft/static/js/3.d6252455.chunk.js.map",
+    "index.html": "/technosoft/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/technosoft/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.142e26c2.chunk.js.LICENSE.txt": "/technosoft/static/js/2.142e26c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da871b3d.js",
+    "static/js/2.142e26c2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.de06a312.chunk.js"
+  ]
+}
